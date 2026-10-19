@@ -1,0 +1,126 @@
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "Bolt", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "100", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "Stainless steel", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 2, "is_match": false}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "Nut", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": false}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "100", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "Bolt", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "Stainless steel", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "200", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "Stainless steel", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "Bolt", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 2, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "100", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "Brass", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": false}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "Nut", "row_context": "Nut | 200 | Brass", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "200", "row_context": "Nut | 200 | Brass", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "Brass", "row_context": "Nut | 200 | Brass", "column_distance": 2, "is_match": false}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "200", "row_context": "Nut | 200 | Brass", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "Nut", "row_context": "Nut | 200 | Brass", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "Brass", "row_context": "Nut | 200 | Brass", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "Brass", "row_context": "Nut | 200 | Brass", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "Nut", "row_context": "Nut | 200 | Brass", "column_distance": 2, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "200", "row_context": "Nut | 200 | Brass", "column_distance": 1, "is_match": false}
+{"document_id": "order-002", "header_text": "Product", "candidate_text": "Bolt", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-002", "header_text": "Product", "candidate_text": "50", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-002", "header_text": "Product", "candidate_text": "Stainless steel", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 2, "is_match": false}
+{"document_id": "order-002", "header_text": "Product", "candidate_text": "Washer", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 0, "is_match": false}
+{"document_id": "order-002", "header_text": "Quantity", "candidate_text": "50", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-002", "header_text": "Quantity", "candidate_text": "Bolt", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-002", "header_text": "Quantity", "candidate_text": "Stainless steel", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-002", "header_text": "Quantity", "candidate_text": "75", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 0, "is_match": false}
+{"document_id": "order-002", "header_text": "Material", "candidate_text": "Stainless steel", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-002", "header_text": "Material", "candidate_text": "Bolt", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 2, "is_match": false}
+{"document_id": "order-002", "header_text": "Material", "candidate_text": "50", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-002", "header_text": "Material", "candidate_text": "Copper", "row_context": "Bolt | 50 | Stainless steel", "column_distance": 0, "is_match": false}
+{"document_id": "order-002", "header_text": "Product", "candidate_text": "Washer", "row_context": "Washer | 75 | Copper", "column_distance": 0, "is_match": true}
+{"document_id": "order-002", "header_text": "Product", "candidate_text": "75", "row_context": "Washer | 75 | Copper", "column_distance": 1, "is_match": false}
+{"document_id": "order-002", "header_text": "Product", "candidate_text": "Copper", "row_context": "Washer | 75 | Copper", "column_distance": 2, "is_match": false}
+{"document_id": "order-002", "header_text": "Quantity", "candidate_text": "75", "row_context": "Washer | 75 | Copper", "column_distance": 0, "is_match": true}
+{"document_id": "order-002", "header_text": "Quantity", "candidate_text": "Washer", "row_context": "Washer | 75 | Copper", "column_distance": 1, "is_match": false}
+{"document_id": "order-002", "header_text": "Quantity", "candidate_text": "Copper", "row_context": "Washer | 75 | Copper", "column_distance": 1, "is_match": false}
+{"document_id": "order-002", "header_text": "Material", "candidate_text": "Copper", "row_context": "Washer | 75 | Copper", "column_distance": 0, "is_match": true}
+{"document_id": "order-002", "header_text": "Material", "candidate_text": "Washer", "row_context": "Washer | 75 | Copper", "column_distance": 2, "is_match": false}
+{"document_id": "order-002", "header_text": "Material", "candidate_text": "75", "row_context": "Washer | 75 | Copper", "column_distance": 1, "is_match": false}
+{"document_id": "order-003", "header_text": "Item", "candidate_text": "Gasket", "row_context": "Gasket | 30 | Rubber", "column_distance": 0, "is_match": true}
+{"document_id": "order-003", "header_text": "Item", "candidate_text": "30", "row_context": "Gasket | 30 | Rubber", "column_distance": 1, "is_match": false}
+{"document_id": "order-003", "header_text": "Item", "candidate_text": "Rubber", "row_context": "Gasket | 30 | Rubber", "column_distance": 2, "is_match": false}
+{"document_id": "order-003", "header_text": "Item", "candidate_text": "Shaft", "row_context": "Gasket | 30 | Rubber", "column_distance": 0, "is_match": false}
+{"document_id": "order-003", "header_text": "Amount", "candidate_text": "30", "row_context": "Gasket | 30 | Rubber", "column_distance": 0, "is_match": true}
+{"document_id": "order-003", "header_text": "Amount", "candidate_text": "Gasket", "row_context": "Gasket | 30 | Rubber", "column_distance": 1, "is_match": false}
+{"document_id": "order-003", "header_text": "Amount", "candidate_text": "Rubber", "row_context": "Gasket | 30 | Rubber", "column_distance": 1, "is_match": false}
+{"document_id": "order-003", "header_text": "Amount", "candidate_text": "12", "row_context": "Gasket | 30 | Rubber", "column_distance": 0, "is_match": false}
+{"document_id": "order-003", "header_text": "Description", "candidate_text": "Rubber", "row_context": "Gasket | 30 | Rubber", "column_distance": 0, "is_match": true}
+{"document_id": "order-003", "header_text": "Description", "candidate_text": "Gasket", "row_context": "Gasket | 30 | Rubber", "column_distance": 2, "is_match": false}
+{"document_id": "order-003", "header_text": "Description", "candidate_text": "30", "row_context": "Gasket | 30 | Rubber", "column_distance": 1, "is_match": false}
+{"document_id": "order-003", "header_text": "Description", "candidate_text": "Steel", "row_context": "Gasket | 30 | Rubber", "column_distance": 0, "is_match": false}
+{"document_id": "order-003", "header_text": "Item", "candidate_text": "Shaft", "row_context": "Shaft | 12 | Steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-003", "header_text": "Item", "candidate_text": "12", "row_context": "Shaft | 12 | Steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-003", "header_text": "Item", "candidate_text": "Steel", "row_context": "Shaft | 12 | Steel", "column_distance": 2, "is_match": false}
+{"document_id": "order-003", "header_text": "Amount", "candidate_text": "12", "row_context": "Shaft | 12 | Steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-003", "header_text": "Amount", "candidate_text": "Shaft", "row_context": "Shaft | 12 | Steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-003", "header_text": "Amount", "candidate_text": "Steel", "row_context": "Shaft | 12 | Steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-003", "header_text": "Description", "candidate_text": "Steel", "row_context": "Shaft | 12 | Steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-003", "header_text": "Description", "candidate_text": "Shaft", "row_context": "Shaft | 12 | Steel", "column_distance": 2, "is_match": false}
+{"document_id": "order-003", "header_text": "Description", "candidate_text": "12", "row_context": "Shaft | 12 | Steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-004", "header_text": "Item", "candidate_text": "Flange", "row_context": "Flange | 8 | DN50", "column_distance": 0, "is_match": true}
+{"document_id": "order-004", "header_text": "Item", "candidate_text": "8", "row_context": "Flange | 8 | DN50", "column_distance": 1, "is_match": false}
+{"document_id": "order-004", "header_text": "Item", "candidate_text": "DN50", "row_context": "Flange | 8 | DN50", "column_distance": 2, "is_match": false}
+{"document_id": "order-004", "header_text": "Item", "candidate_text": "Gasket", "row_context": "Flange | 8 | DN50", "column_distance": 0, "is_match": false}
+{"document_id": "order-004", "header_text": "Qty", "candidate_text": "8", "row_context": "Flange | 8 | DN50", "column_distance": 0, "is_match": true}
+{"document_id": "order-004", "header_text": "Qty", "candidate_text": "Flange", "row_context": "Flange | 8 | DN50", "column_distance": 1, "is_match": false}
+{"document_id": "order-004", "header_text": "Qty", "candidate_text": "DN50", "row_context": "Flange | 8 | DN50", "column_distance": 1, "is_match": false}
+{"document_id": "order-004", "header_text": "Qty", "candidate_text": "16", "row_context": "Flange | 8 | DN50", "column_distance": 0, "is_match": false}
+{"document_id": "order-004", "header_text": "Spec", "candidate_text": "DN50", "row_context": "Flange | 8 | DN50", "column_distance": 0, "is_match": true}
+{"document_id": "order-004", "header_text": "Spec", "candidate_text": "Flange", "row_context": "Flange | 8 | DN50", "column_distance": 2, "is_match": false}
+{"document_id": "order-004", "header_text": "Spec", "candidate_text": "8", "row_context": "Flange | 8 | DN50", "column_distance": 1, "is_match": false}
+{"document_id": "order-004", "header_text": "Spec", "candidate_text": "PTFE", "row_context": "Flange | 8 | DN50", "column_distance": 0, "is_match": false}
+{"document_id": "order-004", "header_text": "Item", "candidate_text": "Gasket", "row_context": "Gasket | 16 | PTFE", "column_distance": 0, "is_match": true}
+{"document_id": "order-004", "header_text": "Item", "candidate_text": "16", "row_context": "Gasket | 16 | PTFE", "column_distance": 1, "is_match": false}
+{"document_id": "order-004", "header_text": "Item", "candidate_text": "PTFE", "row_context": "Gasket | 16 | PTFE", "column_distance": 2, "is_match": false}
+{"document_id": "order-004", "header_text": "Qty", "candidate_text": "16", "row_context": "Gasket | 16 | PTFE", "column_distance": 0, "is_match": true}
+{"document_id": "order-004", "header_text": "Qty", "candidate_text": "Gasket", "row_context": "Gasket | 16 | PTFE", "column_distance": 1, "is_match": false}
+{"document_id": "order-004", "header_text": "Qty", "candidate_text": "PTFE", "row_context": "Gasket | 16 | PTFE", "column_distance": 1, "is_match": false}
+{"document_id": "order-004", "header_text": "Spec", "candidate_text": "PTFE", "row_context": "Gasket | 16 | PTFE", "column_distance": 0, "is_match": true}
+{"document_id": "order-004", "header_text": "Spec", "candidate_text": "Gasket", "row_context": "Gasket | 16 | PTFE", "column_distance": 2, "is_match": false}
+{"document_id": "order-004", "header_text": "Spec", "candidate_text": "16", "row_context": "Gasket | 16 | PTFE", "column_distance": 1, "is_match": false}
+{"document_id": "order-005", "header_text": "Product Name", "candidate_text": "Valve", "row_context": "Valve | 5 | VLV-100", "column_distance": 0, "is_match": true}
+{"document_id": "order-005", "header_text": "Product Name", "candidate_text": "5", "row_context": "Valve | 5 | VLV-100", "column_distance": 1, "is_match": false}
+{"document_id": "order-005", "header_text": "Product Name", "candidate_text": "VLV-100", "row_context": "Valve | 5 | VLV-100", "column_distance": 2, "is_match": false}
+{"document_id": "order-005", "header_text": "Product Name", "candidate_text": "Pump", "row_context": "Valve | 5 | VLV-100", "column_distance": 0, "is_match": false}
+{"document_id": "order-005", "header_text": "Quantity", "candidate_text": "5", "row_context": "Valve | 5 | VLV-100", "column_distance": 0, "is_match": true}
+{"document_id": "order-005", "header_text": "Quantity", "candidate_text": "Valve", "row_context": "Valve | 5 | VLV-100", "column_distance": 1, "is_match": false}
+{"document_id": "order-005", "header_text": "Quantity", "candidate_text": "VLV-100", "row_context": "Valve | 5 | VLV-100", "column_distance": 1, "is_match": false}
+{"document_id": "order-005", "header_text": "Quantity", "candidate_text": "2", "row_context": "Valve | 5 | VLV-100", "column_distance": 0, "is_match": false}
+{"document_id": "order-005", "header_text": "Code", "candidate_text": "VLV-100", "row_context": "Valve | 5 | VLV-100", "column_distance": 0, "is_match": true}
+{"document_id": "order-005", "header_text": "Code", "candidate_text": "Valve", "row_context": "Valve | 5 | VLV-100", "column_distance": 2, "is_match": false}
+{"document_id": "order-005", "header_text": "Code", "candidate_text": "5", "row_context": "Valve | 5 | VLV-100", "column_distance": 1, "is_match": false}
+{"document_id": "order-005", "header_text": "Code", "candidate_text": "PMP-220", "row_context": "Valve | 5 | VLV-100", "column_distance": 0, "is_match": false}
+{"document_id": "order-005", "header_text": "Product Name", "candidate_text": "Pump", "row_context": "Pump | 2 | PMP-220", "column_distance": 0, "is_match": true}
+{"document_id": "order-005", "header_text": "Product Name", "candidate_text": "2", "row_context": "Pump | 2 | PMP-220", "column_distance": 1, "is_match": false}
+{"document_id": "order-005", "header_text": "Product Name", "candidate_text": "PMP-220", "row_context": "Pump | 2 | PMP-220", "column_distance": 2, "is_match": false}
+{"document_id": "order-005", "header_text": "Quantity", "candidate_text": "2", "row_context": "Pump | 2 | PMP-220", "column_distance": 0, "is_match": true}
+{"document_id": "order-005", "header_text": "Quantity", "candidate_text": "Pump", "row_context": "Pump | 2 | PMP-220", "column_distance": 1, "is_match": false}
+{"document_id": "order-005", "header_text": "Quantity", "candidate_text": "PMP-220", "row_context": "Pump | 2 | PMP-220", "column_distance": 1, "is_match": false}
+{"document_id": "order-005", "header_text": "Code", "candidate_text": "PMP-220", "row_context": "Pump | 2 | PMP-220", "column_distance": 0, "is_match": true}
+{"document_id": "order-005", "header_text": "Code", "candidate_text": "Pump", "row_context": "Pump | 2 | PMP-220", "column_distance": 2, "is_match": false}
+{"document_id": "order-005", "header_text": "Code", "candidate_text": "2", "row_context": "Pump | 2 | PMP-220", "column_distance": 1, "is_match": false}
+{"document_id": "order-006", "header_text": "Material", "candidate_text": "Pipe", "row_context": "Pipe | 40 | meter", "column_distance": 0, "is_match": true}
+{"document_id": "order-006", "header_text": "Material", "candidate_text": "40", "row_context": "Pipe | 40 | meter", "column_distance": 1, "is_match": false}
+{"document_id": "order-006", "header_text": "Material", "candidate_text": "meter", "row_context": "Pipe | 40 | meter", "column_distance": 2, "is_match": false}
+{"document_id": "order-006", "header_text": "Material", "candidate_text": "Elbow", "row_context": "Pipe | 40 | meter", "column_distance": 0, "is_match": false}
+{"document_id": "order-006", "header_text": "Amount", "candidate_text": "40", "row_context": "Pipe | 40 | meter", "column_distance": 0, "is_match": true}
+{"document_id": "order-006", "header_text": "Amount", "candidate_text": "Pipe", "row_context": "Pipe | 40 | meter", "column_distance": 1, "is_match": false}
+{"document_id": "order-006", "header_text": "Amount", "candidate_text": "meter", "row_context": "Pipe | 40 | meter", "column_distance": 1, "is_match": false}
+{"document_id": "order-006", "header_text": "Amount", "candidate_text": "18", "row_context": "Pipe | 40 | meter", "column_distance": 0, "is_match": false}
+{"document_id": "order-006", "header_text": "Unit", "candidate_text": "meter", "row_context": "Pipe | 40 | meter", "column_distance": 0, "is_match": true}
+{"document_id": "order-006", "header_text": "Unit", "candidate_text": "Pipe", "row_context": "Pipe | 40 | meter", "column_distance": 2, "is_match": false}
+{"document_id": "order-006", "header_text": "Unit", "candidate_text": "40", "row_context": "Pipe | 40 | meter", "column_distance": 1, "is_match": false}
+{"document_id": "order-006", "header_text": "Unit", "candidate_text": "pcs", "row_context": "Pipe | 40 | meter", "column_distance": 0, "is_match": false}
+{"document_id": "order-006", "header_text": "Material", "candidate_text": "Elbow", "row_context": "Elbow | 18 | pcs", "column_distance": 0, "is_match": true}
+{"document_id": "order-006", "header_text": "Material", "candidate_text": "18", "row_context": "Elbow | 18 | pcs", "column_distance": 1, "is_match": false}
+{"document_id": "order-006", "header_text": "Material", "candidate_text": "pcs", "row_context": "Elbow | 18 | pcs", "column_distance": 2, "is_match": false}
+{"document_id": "order-006", "header_text": "Amount", "candidate_text": "18", "row_context": "Elbow | 18 | pcs", "column_distance": 0, "is_match": true}
+{"document_id": "order-006", "header_text": "Amount", "candidate_text": "Elbow", "row_context": "Elbow | 18 | pcs", "column_distance": 1, "is_match": false}
+{"document_id": "order-006", "header_text": "Amount", "candidate_text": "pcs", "row_context": "Elbow | 18 | pcs", "column_distance": 1, "is_match": false}
+{"document_id": "order-006", "header_text": "Unit", "candidate_text": "pcs", "row_context": "Elbow | 18 | pcs", "column_distance": 0, "is_match": true}
+{"document_id": "order-006", "header_text": "Unit", "candidate_text": "Elbow", "row_context": "Elbow | 18 | pcs", "column_distance": 2, "is_match": false}
+{"document_id": "order-006", "header_text": "Unit", "candidate_text": "18", "row_context": "Elbow | 18 | pcs", "column_distance": 1, "is_match": false}

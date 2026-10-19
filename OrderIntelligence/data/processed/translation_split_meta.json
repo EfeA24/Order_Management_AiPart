@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "train_ratio": 0.8,
+  "val_ratio": 0.1,
+  "test_ratio": 0.1,
+  "raw_pairs": 153438,
+  "cleaned_pairs": 130742,
+  "train_pairs": 103980,
+  "val_pairs": 13549,
+  "test_pairs": 13213,
+  "unique_tr_sources": 118294,
+  "files": {
+    "train": "C:\\Users\\DELL\\Desktop\\PythonProject\\OrderIntelligence\\data\\processed\\translation_train.jsonl",
+    "val": "C:\\Users\\DELL\\Desktop\\PythonProject\\OrderIntelligence\\data\\processed\\translation_val.jsonl",
+    "test": "C:\\Users\\DELL\\Desktop\\PythonProject\\OrderIntelligence\\data\\processed\\translation_test.jsonl"
+  }
+}

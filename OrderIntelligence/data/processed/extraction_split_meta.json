@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "train_ratio": 0.8,
+  "val_ratio": 0.1,
+  "test_ratio": 0.1,
+  "total_docs": 6,
+  "train_docs": 4,
+  "val_docs": 1,
+  "test_docs": 1,
+  "files": {
+    "train": "C:\\Users\\DELL\\Desktop\\PythonProject\\OrderIntelligence\\data\\processed\\extraction_train.jsonl",
+    "val": "C:\\Users\\DELL\\Desktop\\PythonProject\\OrderIntelligence\\data\\processed\\extraction_val.jsonl",
+    "test": "C:\\Users\\DELL\\Desktop\\PythonProject\\OrderIntelligence\\data\\processed\\extraction_test.jsonl"
+  }
+}

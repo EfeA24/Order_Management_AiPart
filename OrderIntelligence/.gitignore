@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment / secrets
+.env
+.env.*
+
+# Checkpoints & outputs
+checkpoints/
+outputs/
+
+# Data (local copies; keep folder structure via .gitkeep if needed)
+data/orders/
+data/annotations/
+data/processed/
+data/translations/
+
+# Jupyter / logs
+.ipynb_checkpoints/
+*.log
+runs/
+wandb/

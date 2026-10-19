@@ -1,0 +1,15 @@
+torch==2.11.0
+transformers==5.20.1
+datasets==5.1.0
+accelerate==1.15.0
+sentencepiece==0.2.2
+sacremoses==0.2.0
+openpyxl==3.1.5
+scikit-learn==1.9.1
+sacrebleu==2.6.0
+fastapi==0.148.0
+uvicorn==0.54.0
+python-multipart==0.0.32
+pydantic==2.14.1
+numpy==2.4.4
+tqdm==4.70.1

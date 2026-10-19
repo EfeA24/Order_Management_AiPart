@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "train_ratio": 0.8,
+  "val_ratio": 0.1,
+  "test_ratio": 0.1,
+  "total_examples": 126,
+  "train_examples": 84,
+  "val_examples": 21,
+  "test_examples": 21,
+  "files": {
+    "train": "C:\\Users\\DELL\\Desktop\\PythonProject\\OrderIntelligence\\data\\processed\\matching_train.jsonl",
+    "val": "C:\\Users\\DELL\\Desktop\\PythonProject\\OrderIntelligence\\data\\processed\\matching_val.jsonl",
+    "test": "C:\\Users\\DELL\\Desktop\\PythonProject\\OrderIntelligence\\data\\processed\\matching_test.jsonl"
+  }
+}

@@ -1,0 +1,21 @@
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "Brass", "row_context": "Nut | 200 | Brass", "column_distance": 2, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "Stainless steel", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "Bolt", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "Stainless steel", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 2, "is_match": false}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "200", "row_context": "Nut | 200 | Brass", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "Brass", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": false}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "Nut", "row_context": "Nut | 200 | Brass", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "Stainless steel", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "Brass", "row_context": "Nut | 200 | Brass", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "200", "row_context": "Nut | 200 | Brass", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "Bolt", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "Bolt", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 2, "is_match": false}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "Nut", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": false}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "Brass", "row_context": "Nut | 200 | Brass", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "100", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "Nut", "row_context": "Nut | 200 | Brass", "column_distance": 0, "is_match": true}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "200", "row_context": "Nut | 200 | Brass", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "Nut", "row_context": "Nut | 200 | Brass", "column_distance": 2, "is_match": false}
+{"document_id": "order-001", "header_text": "Quantity", "candidate_text": "200", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 0, "is_match": false}
+{"document_id": "order-001", "header_text": "Product", "candidate_text": "100", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 1, "is_match": false}
+{"document_id": "order-001", "header_text": "Material", "candidate_text": "100", "row_context": "Bolt | 100 | Stainless steel", "column_distance": 1, "is_match": false}
